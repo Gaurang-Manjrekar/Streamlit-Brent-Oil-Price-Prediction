@@ -5,4 +5,4 @@ statsmodels
 openpyxl
 matplotlib-venn
 numpy
-
+plotly 
