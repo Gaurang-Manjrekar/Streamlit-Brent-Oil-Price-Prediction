@@ -1,9 +1,8 @@
-pandas==1.1.5
+pandas
 streamlit
-numpy==1.19.5
-matplotlib
-matplotlib-inline
 prophet>=1.1
 statsmodels
-streamlit-option-menu
 openpyxl
+matplotlib-venn
+numpy
+
