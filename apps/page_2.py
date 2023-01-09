@@ -16,7 +16,7 @@ warnings.filterwarnings('ignore')
 
 def app():
 
-    df = pd.read_excel(r'C:/Users/gaurang manjrekar/BrentOil.xlsx', parse_dates=['Date'])
+    df = pd.read_excel('BrentOil.xlsx', parse_dates=['Date'])
     data = df.copy()
     data['year'] = data['Date'].dt.year
 
