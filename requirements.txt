@@ -3,4 +3,4 @@ streamlit
 numpy==1.19.5
 matplotlib
 matplotlib-inline
-prophet
+
