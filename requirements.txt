@@ -6,3 +6,4 @@ openpyxl
 matplotlib-venn
 numpy
 plotly 
+scikit-learn
